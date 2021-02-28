@@ -10,7 +10,7 @@ Template web developed with HTML, CCS, SASS and Node
 
 ### Sass Run Watch
 ```
-    npm run css
+    npm run scss
 ```
 
 ## Development Technologies
