@@ -1,9 +1,9 @@
 # Web Template
-Template web developed with HTML5, CCS, SASS and Node
+Template web developed with HTML, CCS, SASS and Node
 
 ## Run Project
 
-### Inital Config
+### Initial Config
 ```
     npm install
 ```
@@ -16,6 +16,6 @@ Template web developed with HTML5, CCS, SASS and Node
 ## Development Technologies
 * Javascript
 * Node
-* HTML5
-* CCS3
-* SASS
+* HTML
+* CSS
+* Sass

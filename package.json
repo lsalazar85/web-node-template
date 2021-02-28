@@ -1,0 +1,18 @@
+{
+  "name": "web-node-template",
+  "version": "1.0.0",
+  "description": "Web template with Node, HTML, CSS and Sass",
+  "main": "index.js",
+  "scripts": {
+    "scss": "node-sass --watch src/assets/scss -o src/assets/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-lsalazar85:lsalazar85/web-node-template.git"
+  },
+  "author": "Luis Salazar",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
