@@ -4,15 +4,11 @@
   "description": "Web template with Node, HTML, CSS and Sass",
   "main": "index.js",
   "scripts": {
-    "scss": "node-sass --watch src/assets/scss -o src/assets/css"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com-lsalazar85:lsalazar85/web-node-template.git"
+    "sass": "node-sass --watch src/assets/sass -o src/assets/css"
   },
   "author": "Luis Salazar",
   "license": "MIT",
   "dependencies": {
-    "node-sass": "^5.0.0"
+    "node-sass": "^6.0.0"
   }
 }
